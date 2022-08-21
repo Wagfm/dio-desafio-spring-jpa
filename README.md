@@ -1,0 +1,2 @@
+# Project Challenge: Spring JPA :leafy_green:
+  Repository created for the "Spring JPA" project challenge, from the Spring Framework Experience Bootcamp. Consists in a REST API to persist data using PostgreSQL.
